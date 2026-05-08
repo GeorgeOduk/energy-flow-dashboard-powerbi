@@ -1,5 +1,9 @@
 # Energy Flow Dashboard
 
+## Project Links
+- **Portfolio case study:** https://georgeoduk.github.io/energy-flow.html
+- **GitHub repository:** https://github.com/GeorgeOduk/energy-flow-dashboard-powerbi
+
 ## Project Overview
 
 This project is an interactive Power BI dashboard designed to analyse energy consumption, energy cost efficiency and emissions across selected US locations.
